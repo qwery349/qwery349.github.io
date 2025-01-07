@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
@@ -11,7 +10,7 @@ font-family: Arial, sans-serif;
 text-align: center;
 background-size: cover;
 background-position: center;
-background-image: url('https://media.discordapp.net/attachments/1261996590554681386/1276846821947211816/800px-Devil27s_portrait2C_Herman_the_Recluse2C_Codex_Gigas2C_Benedictine_monastery_of_PodlaC5BEice2C_early_13th_century.png?ex=66cc5545&is=66cb03c5&hm=c5227b419f6aa301f7761e1f4bf341493a8b5e26ed876939535a0a4dec5e02e9&=&format=webp&quality=lossless&width=281&height=414');
+background-image: url('https://media.discordapp.net/attachments/1261711902673997897/1311337953167151245/1-2.png?ex=677de2e3&is=677c9163&hm=3cb2eccebd2dc6b9062be1de7435f4c4be5ea4fb48a6521db39f4676a4a6a43f&=&format=webp&quality=lossless');
 }
 .container {
 margin: 50px auto;
